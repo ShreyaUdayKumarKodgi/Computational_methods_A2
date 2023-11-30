@@ -77,6 +77,7 @@ After listening to the two restored files, we notice that the degraded signal is
 ## Credits
 
 This code was developed for purely academic purposes by Shreya Uday Kumar Kodgi as part of the Computational Methods module Assignment.
+Credits to Aparna S R for helping me with the scaling format.
 
 Resources:
 - [Cubic Spline](https://docs.scipy.org/doc/scipy/reference/generated/scipy.interpolate.CubicSpline.html)
