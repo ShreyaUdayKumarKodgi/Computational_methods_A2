@@ -1,4 +1,4 @@
-# PythonA2
+# ASSIGNMENT 2
 # Audio Restoration using Median Filter and Cubic Spline method
 
 ## High-level Description of the project
